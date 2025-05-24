@@ -1,0 +1,89 @@
+# Mercado Pago Documentation
+
+## Crédito
+
+- [Consequências financeiras](https://jjguajo.github.io/nao-pagar-emprestimo-pessoal/nao-pagar-emprestimo-pessoal.md): Este conteúdo aborda as possíveis consequências de não pagar um empréstimo pessoal.
+- [Dicas Crédito](https://jjguajo.github.io/dicas-como-conseguir-credito/dicas-como-conseguir-credito.md): Seis dicas para aumentar as chances de aprovação de crédito.
+- [Empréstimo urgente](https://jjguajo.github.io/emprestimo-urgente-quando-pedir/emprestimo-urgente-quando-pedir.md): Dicas para escolher a melhor opção de empréstimo em situações de urgência.
+- [Comparação Empréstimos](https://jjguajo.github.io/diferenca-emprestimo-pessoal-e-consignado/diferenca-emprestimo-pessoal-e-consignado.md): Análise das diferenças entre empréstimo consignado e empréstimo pessoal para auxiliar na escolha da melhor opção.
+- [análise financeira](https://jjguajo.github.io/credito-pessoal-mitos-verdades-mercado-pago/credito-pessoal-mitos-verdades-mercado-pago.md): Esclarecimento de mitos e verdades sobre crédito pessoal.
+- [Comparação Financeira](https://jjguajo.github.io/diferenca-limite-de-credito-emprestimo/diferenca-limite-de-credito-emprestimo.md): Análise das diferenças entre limite de crédito e empréstimo para auxiliar na escolha da melhor opção.
+- [Correção de erros](https://jjguajo.github.io/corrigir-erros-registrato/corrigir-erros-registrato.md): Guia para corrigir erros encontrados no Registrato.
+- [Dicas Financeiras](https://jjguajo.github.io/tirar-o-nome-do-registrato/tirar-o-nome-do-registrato.md): Orientações sobre como remover o nome do Registrato e recuperar o acesso ao crédito.
+- [Análise Financeira](https://jjguajo.github.io/pedir-emprestimo-na-black-friday-vale-a-pena/pedir-emprestimo-na-black-friday-vale-a-pena.md): Avaliação sobre a viabilidade de solicitar um empréstimo para aproveitar as ofertas da Black Friday.
+- [Empréstimo Veículo](https://jjguajo.github.io/emprestimo-para-financiar-um-veiculo/emprestimo-para-financiar-um-veiculo.md): Dicas para obter um empréstimo e financiar a compra de um veículo.
+- [Empréstimo pessoal](https://jjguajo.github.io/tipo-de-emprestimo-para-negativado/tipo-de-emprestimo-para-negativado.md): Conheça cinco tipos de empréstimos disponíveis para pessoas com restrição de crédito.
+- [Dicas Financeiras](https://jjguajo.github.io/opcoes-alem-do-credito-pessoal/opcoes-alem-do-credito-pessoal.md): Sugestões para lidar com dívidas sem recorrer ao crédito pessoal.
+- [Educação financeira](https://jjguajo.github.io/educacao-financeira-como-se-tornar-consumidor-consciente/educacao-financeira-como-se-tornar-consumidor-consciente.md): Três passos para se tornar um consumidor consciente.
+- [Empréstimos seguros](https://jjguajo.github.io/emprestimos-pessoais/emprestimos-pessoais.md): Dicas para solicitar empréstimos pessoais de forma segura
+- [Atualizações Serasa](https://jjguajo.github.io/conheca-a-nova-pontuacao-de-credito-serasa-score-30/conheca-a-nova-pontuacao-de-credito-serasa-score-30.md): Principais mudanças na pontuação do Serasa Score 3.0
+- [Educação Financeira](https://jjguajo.github.io/credito-responsavel-para-bem-estar-financeiro/credito-responsavel-para-bem-estar-financeiro.md): Explora como o uso responsável do crédito pode melhorar sua saúde financeira.
+- [Educação Financeira](https://jjguajo.github.io/desvende-o-credito-rotativo-e-proteja-suas-financas/desvende-o-credito-rotativo-e-proteja-suas-financas.md): Explicação sobre o crédito rotativo e como evitar seus riscos.
+- [Educação Financeira](https://jjguajo.github.io/o-que-e-amortizacao-e-porque-e-importante/o-que-e-amortizacao-e-porque-e-importante.md): Explicação sobre o conceito de amortização e sua relevância na gestão das finanças pessoais.
+- [Educação Financeira](https://jjguajo.github.io/tipos-de-credito/tipos-de-credito.md): Informações sobre diferentes tipos de crédito e orientações para utilizá-los de forma responsável.
+- [Educação Financeira](https://jjguajo.github.io/o-que-e-superendividamento-e-suas-causas/o-que-e-superendividamento-e-suas-causas.md): Análise das causas do superendividamento e estratégias para evitar armadilhas financeiras.
+- [Oferta Financeira](https://jjguajo.github.io/linha-de-credito-mercado-pago-solucoes-financeira/linha-de-credito-mercado-pago-solucoes-financeira.md): Apresenta a Linha de Crédito Mercado Pago como solução para suas necessidades financeiras.
+- [Renegociação Dívidas](https://jjguajo.github.io/desenrola-brasil-mercado-pago-como-quitar-dividas/desenrola-brasil-mercado-pago-como-quitar-dividas.md): Descubra como o Mercado Pago pode auxiliar você a quitar suas dívidas por meio do programa Desenrola Brasil.
+- [Solicitação Empréstimo](https://jjguajo.github.io/passo-a-passo-emprestimo-mercado-pago/passo-a-passo-emprestimo-mercado-pago.md): Guia passo a passo para solicitar um empréstimo no Mercado Pago.
+- [Negociação de dívidas](https://jjguajo.github.io/negociar-divida-conta-mercado-pago/negociar-divida-conta-mercado-pago.md): Orientações sobre como negociar dívidas na Conta Mercado Pago.
+- [Educação Financeira](https://jjguajo.github.io/o-que-e-score-de-credito/o-que-e-score-de-credito.md): Explicação sobre o que é o score de crédito e sua importância para a saúde financeira.
+
+## Seguros
+
+- [Explicação de sinistro](https://jjguajo.github.io/o-que-e-sinistro-no-seguro/o-que-e-sinistro-no-seguro.md): Definição de sinistro em seguros e seu impacto nas coberturas.
+- [Informativo Seguro](https://jjguajo.github.io/seguro-de-garantia-estendida-mercado-pago/seguro-de-garantia-estendida-mercado-pago.md): Explicação sobre o funcionamento do Seguro de Garantia Estendida do Mercado Pago.
+- [Oferta Seguros](https://jjguajo.github.io/viajar-com-seguranca-com-seguro-mercado-pago/viajar-com-seguranca-com-seguro-mercado-pago.md): Apresentação dos seguros do Mercado Pago para diversas situações da vida.
+- [Guia Contratação](https://jjguajo.github.io/contratar-seguro-mercado-pago/contratar-seguro-mercado-pago.md): Instruções para contratar o Seguro Mercado Pago em 5 passos.
+- [Planejamento Financeiro](https://jjguajo.github.io/seguros-no-planejamento-financeiro/seguros-no-planejamento-financeiro.md): Importância dos seguros no planejamento financeiro
+- [Seguro Saúde](https://jjguajo.github.io/seguro-mercado-pago-telemedicina/seguro-mercado-pago-telemedicina.md): Informações sobre o serviço de telemedicina oferecido pelo Seguro Mercado Pago.
+- [benefícios seguros](https://jjguajo.github.io/vantagens-seguros-mercado-pago/vantagens-seguros-mercado-pago.md): Descubra seis vantagens dos seguros oferecidos pelo Mercado Pago.
+- [Explicação detalhada](https://jjguajo.github.io/seguro-de-acidentes-pessoais-mercado-pago/seguro-de-acidentes-pessoais-mercado-pago.md): Informações sobre o Seguro de Acidentes Pessoais oferecido pelo Mercado Pago.
+- [Proteção Financeira](https://jjguajo.github.io/seguro-mercado-pago-no-carnaval/seguro-mercado-pago-no-carnaval.md): Dicas para evitar prejuízos financeiros durante o Carnaval com o Seguro Mercado Pago.
+- [Análise Diferenciais](https://jjguajo.github.io/seguro-de-vida-mercado-pago/seguro-de-vida-mercado-pago.md): Descubra os benefícios exclusivos do Seguro de Vida do Mercado Pago.
+- [Análise Seguros](https://jjguajo.github.io/seguros-mercado-pago/seguros-mercado-pago.md): Comparação das opções de seguros oferecidas pelo Mercado Pago.
+- [Benefícios Seguro](https://jjguajo.github.io/vantagens-em-ter-seguro-de-vida-e-acidentes-pessoais/vantagens-em-ter-seguro-de-vida-e-acidentes-pessoais.md): Descubra quatro vantagens de possuir um seguro de vida e acidentes pessoais.
+- [seguro financeiro](https://jjguajo.github.io/seguro-cartao-pix-mercado-pago/seguro-cartao-pix-mercado-pago.md): Informações sobre o seguro para cartão e transações Pix oferecido pela Conta Mercado Pago.
+- [Seguro Celular](https://jjguajo.github.io/como-funciona-o-seguro-para-celular-na-conta-mercado-pago/como-funciona-o-seguro-para-celular-na-conta-mercado-pago.md): Explicação sobre o funcionamento do seguro para celular oferecido na Conta Mercado Pago.
+
+## Meli+
+
+- [Cartão Benefícios](https://jjguajo.github.io/cashback-cartao-mercado-pago-meli/cashback-cartao-mercado-pago-meli.md): Informações sobre cashback e benefícios exclusivos do Cartão Mercado Pago e Meli+.
+- [Análise Título](https://jjguajo.github.io/novos-planos-de-assinatura-meli-mais/novos-planos-de-assinatura-meli-mais.md): Detalhes sobre os novos planos de assinatura do Meli+ com mais benefícios.
+- [Cashback Meli](https://jjguajo.github.io/meli-dolar-criptomoeda-mercado-livre-mercado-pago-meli-mais/meli-dolar-criptomoeda-mercado-livre-mercado-pago-meli-mais.md): Aprenda a obter cashback em Meli Dólar e aproveitar seus benefícios.
+- [Explicação Benefícios](https://jjguajo.github.io/conheca-o-novo-meli-mais-mercado-pago-mercado-livre/conheca-o-novo-meli-mais-mercado-pago-mercado-livre.md): Este conteúdo explica o que é o Meli+ e como aproveitar seus benefícios exclusivos.
+- [música produtividade](https://jjguajo.github.io/musicas-para-ouvir-no-trabalho/musicas-para-ouvir-no-trabalho.md): Sugestões de playlists para aumentar a produtividade no trabalho.
+- [Dicas Streaming](https://jjguajo.github.io/meli-ferias-de-julho/meli-ferias-de-julho.md): Sugestões para aproveitar os serviços de streaming do Meli+ durante as férias de julho.
+- [Economia Viagem](https://jjguajo.github.io/tag-de-pedagio-ferias-de-julho/tag-de-pedagio-ferias-de-julho.md): Descubra como o uso de tags de pedágio pode ajudar a economizar durante as férias de julho.
+- [Análise de mercado](https://jjguajo.github.io/filmes-e-series-online-em-servicos-de-streaming/filmes-e-series-online-em-servicos-de-streaming.md): Exploração do impacto dos serviços de streaming no consumo de filmes e séries pelos brasileiros.
+- [Mudanças Meli+](https://jjguajo.github.io/meli-o-que-mudou-no-programa-de-recompensas-do-mercado-pago/meli-o-que-mudou-no-programa-de-recompensas-do-mercado-pago.md): Detalhes sobre as alterações recentes no programa de recompensas do Mercado Pago.
+- [Economia Streaming](https://jjguajo.github.io/servicos-de-streaming-mercado-pontos/servicos-de-streaming-mercado-pontos.md): Descubra como economizar em serviços de streaming utilizando o Mercado Pago.
+- [Benefícios Meli+](https://jjguajo.github.io/beneficios-e-vantagens-meli/beneficios-e-vantagens-meli.md): Descubra quatro benefícios do Meli+, como adquiri-los e quais são suas vantagens.
+- [Recompensas Meli+](https://jjguajo.github.io/meli-mais-como-aproveitar-beneficios/meli-mais-como-aproveitar-beneficios.md): Informações sobre os benefícios disponíveis ao acumular mais pontos no programa Meli+.
+- [Dicas Meli+](https://jjguajo.github.io/beneficios-meli/beneficios-meli.md): Instruções para obter os benefícios do Meli+
+- [Portabilidade Ultrapasse](https://jjguajo.github.io/portabilidade-para-ultrapasse-mercado-pago/portabilidade-para-ultrapasse-mercado-pago.md): Informações sobre como migrar sua tag ConectCar para o serviço Ultrapasse, destacando benefícios como redução de custos e maior facilidade no uso.
+- [Programa de recompensas](https://jjguajo.github.io/acumule-pontos-no-meli-com-mercado-pago/acumule-pontos-no-meli-com-mercado-pago.md): Como acumular pontos no Meli+ utilizando o Mercado Pago.
+- [Economia pessoal](https://jjguajo.github.io/vantagens-do-meli-mais/vantagens-do-meli-mais.md): Explicação sobre como o Meli+ pode ajudar a economizar.
+- [Guia prático](https://jjguajo.github.io/meli-mais-entenda-como-usar-e-aproveite-os-beneficios/meli-mais-entenda-como-usar-e-aproveite-os-beneficios.md): Aprenda a utilizar o Meli+ e aproveite seus benefícios.
+
+## Crédito_1
+
+- [Explicação financeira](https://jjguajo.github.io/como-funciona-a-linha-de-credito-mercado-pago/como-funciona-a-linha-de-credito-mercado-pago.md): Detalhes sobre o funcionamento da Linha de Crédito do Mercado Pago.
+
+## Conta grátis
+
+- [Benefícios Conta](https://jjguajo.github.io/conta-mercado-pago-5-beneficios-no-mercado-livre/conta-mercado-pago-5-beneficios-no-mercado-livre.md): Descubra cinco vantagens de utilizar a Conta Mercado Pago no Mercado Livre.
+- [Promoção Viagem](https://jjguajo.github.io/promocao-passaporte-catar-agora-vai-mercado-pago/promocao-passaporte-catar-agora-vai-mercado-pago.md): Concorra a viagens para a Copa do Mundo no Catar.
+- [Informativo Telecomunicações](https://jjguajo.github.io/migracao-oi/migracao-oi.md): Este conteúdo fornece informações detalhadas sobre o processo de migração dos clientes da Oi Móvel para outras operadoras, incluindo mudanças nos serviços e orientações para os usuários.
+- [Guia Conta](https://jjguajo.github.io/conta-mercado-pago/conta-mercado-pago.md): Informações essenciais para abrir sua conta Mercado Pago.
+- [educação financeira](https://jjguajo.github.io/musica-agora-vai-educacao-financeira/musica-agora-vai-educacao-financeira.md): Conteúdo musical e audiovisual que promove a educação financeira de forma divertida e consciente.
+- [Instruções de assinatura](https://jjguajo.github.io/como-assinar-meli-mais/como-assinar-meli-mais.md): Guia para assinar o Meli+
+- [Programa Benefícios](https://jjguajo.github.io/ja-conhece-o-programa-vai-de-visa-e-seus-beneficios/ja-conhece-o-programa-vai-de-visa-e-seus-beneficios.md): Descubra as vantagens exclusivas do programa Vai de Visa.
+- [Validação Identidade](https://jjguajo.github.io/como-validar-sua-identidade-na-conta-mercado-pago/como-validar-sua-identidade-na-conta-mercado-pago.md): Instruções para confirmar sua identidade na Conta Mercado Pago.
+- [Soluções Pagamento](https://jjguajo.github.io/como-a-conta-mercado-pago-resolve-seus-pagamentos-sem-filas/como-a-conta-mercado-pago-resolve-seus-pagamentos-sem-filas.md): Descubra como a Conta Mercado Pago facilita pagamentos sem filas.
+- [Guia Financeiro](https://jjguajo.github.io/saque-mercado-pago-entenda-como-funciona/saque-mercado-pago-entenda-como-funciona.md): Explicação sobre como realizar saques no Mercado Pago.
+- [Benefícios CNPJ](https://jjguajo.github.io/beneficios-de-ter-cnpj-e-como-mudar-sua-titularidade-no-mercado-pago/beneficios-de-ter-cnpj-e-como-mudar-sua-titularidade-no-mercado-pago.md): Descubra as vantagens de possuir um CNPJ e aprenda a alterar a titularidade no Mercado Pago.
+- [Informação Preços](https://jjguajo.github.io/quanto-custa-a-conta-mercado-pago/quanto-custa-a-conta-mercado-pago.md): Detalhes sobre os custos associados à Conta Mercado Pago.
+- [serviços financeiros](https://jjguajo.github.io/7-servicos-financeiros-que-voce-encontra-na-conta-mercado-pago/7-servicos-financeiros-que-voce-encontra-na-conta-mercado-pago.md): Lista de sete serviços financeiros disponíveis na Conta Mercado Pago.
+- [Segurança Conta](https://jjguajo.github.io/como-deixar-sua-conta-mercado-pago-ainda-mais-segura/como-deixar-sua-conta-mercado-pago-ainda-mais-segura.md): Dicas para aumentar a segurança da sua conta Mercado Pago.
+- [Serviços MercadoPago](https://jjguajo.github.io/muito-alem-dos-pagamentos-on-line-conheca-os-servicos-do-aplicativo-mercado-pago/muito-alem-dos-pagamentos-on-line-conheca-os-servicos-do-aplicativo-mercado-pago.md): Descubra os diversos serviços oferecidos pelo aplicativo Mercado Pago além de pagamentos.
+
