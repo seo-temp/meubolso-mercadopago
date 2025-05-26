@@ -2,8 +2,8 @@
 
 ## Seguros
 
-- [Explicação de sinistro](https://seo-temp.github.io/meubolso-mercadopago/siniestro): Definição de sinistro em seguros e seu impacto nas coberturas.
-- [Guia Contratação](https://seo-temp.github.io/meubolso-mercadopago/contratar-seguro-mercado-pago.md): Instruções para contratar o Seguro Mercado Pago em 5 passos.
+- [Explicação de sinistro](https://seo-temp.github.io/meubolso-mercadopago/siniestro.md): Definição de sinistro em seguros e seu impacto nas coberturas.
+- [Guia Contratação](https://seo-temp.github.io/meubolso-mercadopago/contratacion.md): Instruções para contratar o Seguro Mercado Pago em 5 passos.
 - [Benefícios seguros](https://seo-temp.github.io/meubolso-mercadopago/vantagens-seguros-mercado-pago.md): Descubra seis vantagens dos seguros oferecidos pelo Mercado Pago.
 - [Informativo Seguro](https://seo-temp.github.io/meubolso-mercadopago/seguro-de-garantia-estendida-mercado-pago.md): Explicação sobre o funcionamento do Seguro de Garantia Estendida do Mercado Pago.
 - [Oferta Seguros](https://seo-temp.github.io/meubolso-mercadopago/viajar-com-seguranca-com-seguro-mercado-pago.md): Apresentação dos seguros do Mercado Pago para diversas situações da vida.
