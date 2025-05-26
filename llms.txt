@@ -2,7 +2,7 @@
 
 ## Seguros
 
-- [Explicação de sinistro](https://seo-temp.github.io/o-que-e-sinistro-no-seguro/o-que-e-sinistro-no-seguro.md): Definição de sinistro em seguros e seu impacto nas coberturas.
+- [Explicação de sinistro](https://seo-temp.github.io/meubolso-mercadopago/o-que-e-sinistro-no-seguro.md): Definição de sinistro em seguros e seu impacto nas coberturas.
 - [Guia Contratação](https://seo-temp.github.io/contratar-seguro-mercado-pago/contratar-seguro-mercado-pago.md): Instruções para contratar o Seguro Mercado Pago em 5 passos.
 - [Benefícios seguros](https://seo-temp.github.io/vantagens-seguros-mercado-pago/vantagens-seguros-mercado-pago.md): Descubra seis vantagens dos seguros oferecidos pelo Mercado Pago.
 - [Informativo Seguro](https://seo-temp.github.io/seguro-de-garantia-estendida-mercado-pago/seguro-de-garantia-estendida-mercado-pago.md): Explicação sobre o funcionamento do Seguro de Garantia Estendida do Mercado Pago.
@@ -22,7 +22,7 @@
 - [Cashback Meli](https://seo-temp.github.io/meli-dolar-criptomoeda-mercado-livre-mercado-pago-meli-mais/meli-dolar-criptomoeda-mercado-livre-mercado-pago-meli-mais.md): Aprenda a obter cashback em Meli Dólar e aproveitar seus benefícios.
 - [Benefícios Meli+](https://seo-temp.github.io/beneficios-e-vantagens-meli/beneficios-e-vantagens-meli.md): Descubra quatro benefícios do Meli+, como adquiri-los e quais são suas vantagens.
 - [Programa de recompensas](https://seo-temp.github.io/acumule-pontos-no-meli-com-mercado-pago/acumule-pontos-no-meli-com-mercado-pago.md): Como acumular pontos no Meli+ utilizando o Mercado Pago.
-- [Cartão Benefícios](https://seo-temp.github.io/cashback-cartao-mercado-pago-meli/cashback-cartao-mercado-pago-meli.md): Informações sobre cashback e benefícios exclusivos do Cartão Mercado Pago e Meli+.
+- [Cartão Benefícios](https://seo-temp.github.io/meubolso-mercadopago/cashback-cartao-mercado-pago-meli.md): Informações sobre cashback e benefícios exclusivos do Cartão Mercado Pago e Meli+.
 - [Explicação Benefícios](https://seo-temp.github.io/conheca-o-novo-meli-mais-mercado-pago-mercado-livre/conheca-o-novo-meli-mais-mercado-pago-mercado-livre.md): Este conteúdo explica o que é o Meli+ e como aproveitar seus benefícios exclusivos.
 - [Música produtividade](https://seo-temp.github.io/musicas-para-ouvir-no-trabalho/musicas-para-ouvir-no-trabalho.md): Sugestões de playlists para aumentar a produtividade no trabalho.
 - [Dicas Streaming](https://seo-temp.github.io/meli-ferias-de-julho/meli-ferias-de-julho.md): Sugestões para aproveitar os serviços de streaming do Meli+ durante as férias de julho.
