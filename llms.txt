@@ -5,17 +5,17 @@
 - [Explicação de sinistro](https://seo-temp.github.io/meubolso-mercadopago/o-que-e-sinistro-no-seguro.md): Definição de sinistro em seguros e seu impacto nas coberturas.
 - [Guia Contratação](https://seo-temp.github.io/meubolso-mercadopago/contratar-seguro-mercado-pago.md): Instruções para contratar o Seguro Mercado Pago em 5 passos.
 - [Benefícios seguros](https://seo-temp.github.io/meubolso-mercadopago/vantagens-seguros-mercado-pago.md): Descubra seis vantagens dos seguros oferecidos pelo Mercado Pago.
-- [Informativo Seguro](https://seo-temp.github.io/seguro-de-garantia-estendida-mercado-pago/seguro-de-garantia-estendida-mercado-pago.md): Explicação sobre o funcionamento do Seguro de Garantia Estendida do Mercado Pago.
-- [Oferta Seguros](https://seo-temp.github.io/viajar-com-seguranca-com-seguro-mercado-pago/viajar-com-seguranca-com-seguro-mercado-pago.md): Apresentação dos seguros do Mercado Pago para diversas situações da vida.
-- [Planejamento Financeiro](https://seo-temp.github.io/seguros-no-planejamento-financeiro/seguros-no-planejamento-financeiro.md): Importância dos seguros no planejamento financeiro
-- [Seguro Saúde](https://seo-temp.github.io/seguro-mercado-pago-telemedicina/seguro-mercado-pago-telemedicina.md): Informações sobre o serviço de telemedicina oferecido pelo Seguro Mercado Pago.
-- [Explicação detalhada](https://seo-temp.github.io/seguro-de-acidentes-pessoais-mercado-pago/seguro-de-acidentes-pessoais-mercado-pago.md): Informações sobre o Seguro de Acidentes Pessoais oferecido pelo Mercado Pago.
-- [Proteção Financeira](https://seo-temp.github.io/seguro-mercado-pago-no-carnaval/seguro-mercado-pago-no-carnaval.md): Dicas para evitar prejuízos financeiros durante o Carnaval com o Seguro Mercado Pago.
-- [Análise Diferenciais](https://seo-temp.github.io/seguro-de-vida-mercado-pago/seguro-de-vida-mercado-pago.md): Descubra os benefícios exclusivos do Seguro de Vida do Mercado Pago.
-- [Análise Seguros](https://seo-temp.github.io/seguros-mercado-pago/seguros-mercado-pago.md): Comparação das opções de seguros oferecidas pelo Mercado Pago.
-- [Benefícios Seguro](https://seo-temp.github.io/vantagens-em-ter-seguro-de-vida-e-acidentes-pessoais/vantagens-em-ter-seguro-de-vida-e-acidentes-pessoais.md): Descubra quatro vantagens de possuir um seguro de vida e acidentes pessoais.
-- [Seguro financeiro](https://seo-temp.github.io/seguro-cartao-pix-mercado-pago/seguro-cartao-pix-mercado-pago.md): Informações sobre o seguro para cartão e transações Pix oferecido pela Conta Mercado Pago.
-- [Seguro Celular](https://seo-temp.github.io/como-funciona-o-seguro-para-celular-na-conta-mercado-pago/como-funciona-o-seguro-para-celular-na-conta-mercado-pago.md): Explicação sobre o funcionamento do seguro para celular oferecido na Conta Mercado Pago.
+- [Informativo Seguro](https://seo-temp.github.io/meubolso-mercadopago/seguro-de-garantia-estendida-mercado-pago.md): Explicação sobre o funcionamento do Seguro de Garantia Estendida do Mercado Pago.
+- [Oferta Seguros](https://seo-temp.github.io/meubolso-mercadopago/viajar-com-seguranca-com-seguro-mercado-pago.md): Apresentação dos seguros do Mercado Pago para diversas situações da vida.
+- [Planejamento Financeiro](https://seo-temp.github.io/meubolso-mercadopago/seguros-no-planejamento-financeiro.md): Importância dos seguros no planejamento financeiro
+- [Seguro Saúde](https://seo-temp.github.io/meubolso-mercadopago/seguro-mercado-pago-telemedicina.md): Informações sobre o serviço de telemedicina oferecido pelo Seguro Mercado Pago.
+- [Explicação detalhada](https://seo-temp.github.io/meubolso-mercadopago/seguro-de-acidentes-pessoais-mercado-pago.md): Informações sobre o Seguro de Acidentes Pessoais oferecido pelo Mercado Pago.
+- [Proteção Financeira](https://seo-temp.github.io/meubolso-mercadopago/seguro-mercado-pago-no-carnaval.md): Dicas para evitar prejuízos financeiros durante o Carnaval com o Seguro Mercado Pago.
+- [Análise Diferenciais](https://seo-temp.github.io/meubolso-mercadopago/seguro-de-vida-mercado-pago.md): Descubra os benefícios exclusivos do Seguro de Vida do Mercado Pago.
+- [Análise Seguros](https://seo-temp.github.io/meubolso-mercadopago/seguros-mercado-pago.md): Comparação das opções de seguros oferecidas pelo Mercado Pago.
+- [Benefícios Seguro](https://seo-temp.github.io/meubolso-mercadopago/vantagens-em-ter-seguro-de-vida-e-acidentes-pessoais.md): Descubra quatro vantagens de possuir um seguro de vida e acidentes pessoais.
+- [Seguro financeiro](https://seo-temp.github.io/meubolso-mercadopago/seguro-cartao-pix-mercado-pago.md): Informações sobre o seguro para cartão e transações Pix oferecido pela Conta Mercado Pago.
+- [Seguro Celular](https://seo-temp.github.io/meubolso-mercadopago/como-funciona-o-seguro-para-celular-na-conta-mercado-pago.md): Explicação sobre o funcionamento do seguro para celular oferecido na Conta Mercado Pago.
 
 ## Meli+
 
