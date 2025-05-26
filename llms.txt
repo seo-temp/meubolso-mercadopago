@@ -38,7 +38,7 @@
 
 ## Crédito Mundo Mercado Pago
 
-- [Explicação financeira](https://seo-temp.github.io/meubolso-mercadopago/como-funciona-a-linha-de-credito-mercado-pago.md): Detalhes sobre o funcionamento da Linha de Crédito do Mercado Pago.
+- [Explicação financeira](https://seo-temp.github.io/meubolso-mercadopago/linha-de-credito.md): Detalhes sobre o funcionamento da Linha de Crédito do Mercado Pago.
 
 ## Conta grátis
 
